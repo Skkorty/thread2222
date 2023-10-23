@@ -1,0 +1,11 @@
+C:\Users\ortiz.276833\Source\Repos\Skkorty\lab\lab\bin\Debug\lab.exe.config
+C:\Users\ortiz.276833\Source\Repos\Skkorty\lab\lab\bin\Debug\lab.exe
+C:\Users\ortiz.276833\Source\Repos\Skkorty\lab\lab\bin\Debug\lab.pdb
+C:\Users\ortiz.276833\Source\Repos\Skkorty\lab\lab\obj\Debug\lab.csproj.AssemblyReference.cache
+C:\Users\ortiz.276833\Source\Repos\Skkorty\lab\lab\obj\Debug\lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\ortiz.276833\Source\Repos\Skkorty\lab\lab\obj\Debug\lab.Form1.resources
+C:\Users\ortiz.276833\Source\Repos\Skkorty\lab\lab\obj\Debug\lab.Properties.Resources.resources
+C:\Users\ortiz.276833\Source\Repos\Skkorty\lab\lab\obj\Debug\lab.csproj.GenerateResource.cache
+C:\Users\ortiz.276833\Source\Repos\Skkorty\lab\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
+C:\Users\ortiz.276833\Source\Repos\Skkorty\lab\lab\obj\Debug\lab.exe
+C:\Users\ortiz.276833\Source\Repos\Skkorty\lab\lab\obj\Debug\lab.pdb
